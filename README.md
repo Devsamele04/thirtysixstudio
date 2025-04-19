@@ -1,12 +1,35 @@
-# React + Vite
+ThirtySix Studio - Agency Portfolio
+ThirtySix Studio Banner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to ThirtySix Studio, a modern, minimalistic agency portfolio built with React, Tailwind CSS, and GSAP animations. This project is designed to showcase a sleek, responsive design with interactive animations, suitable for agencies and freelancers looking for a visually engaging portfolio website.
 
-Currently, two official plugins are available:
+Table of Contents
+About the Project
+Technologies Used
+Features
+Getting Started
+File Structure
+Contributing
+License
+About the Project
+ThirtySix Studio aims to blend modern design principles with seamless animations to provide an exceptional user experience. Leveraging React for the front-end, Tailwind CSS for styling, and GSAP for smooth animations, this project is a great base for building a high-quality portfolio website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+React - JavaScript library for building user interfaces
+Tailwind CSS - Utility-first CSS framework
+GSAP - Animation library for smooth and advanced animations
+Features
+Smooth Animations: Animated page transitions and interactive elements powered by GSAP.
+Minimalistic UI: Clean, focused design with intuitive navigation.
+Reusable Components: Built with reusable and customizable React components.
+Getting Started
+Prerequisites
+Ensure you have Node.js and npm installed.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Installation
+Clone the repository:
+git clone https://github.com/asynchronousJavascriptor/thirtysixstudio.git
+cd thirtysixstudio
+npm install
+npm run dev
+server starts on localhost:5173
